@@ -2,7 +2,7 @@
 
 namespace Tyuiu.ArapovTY.Sprint0.Task7.V0
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
