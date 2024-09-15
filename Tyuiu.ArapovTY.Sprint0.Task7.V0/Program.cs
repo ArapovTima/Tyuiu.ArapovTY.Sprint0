@@ -44,7 +44,7 @@ namespace Tyuiu.ArapovTY.Sprint0.Task7.V0
             {
                 int[] resultArray = DataService.AdditionArrays(arrayNums1, arrayNums2);
 
-                Console.WriteLine("Сумма элементов массива ровна:");
+                Console.WriteLine("Сумма элементов массива равна:");
                 for(int i = 0; i < resultArray.Length; i++)
                 {
                     Console.Write(resultArray[i] + ", ");
